@@ -1,6 +1,6 @@
 # Data_processing_Numpy
-building a project to learn more about NumPy:
-  Features of the data set:
+ - Building a project to learn more about NumPy:
+ - Features of the data set:
   Age: Age of the person
   education-num: No. of years of education they had
   race: Person's race 
