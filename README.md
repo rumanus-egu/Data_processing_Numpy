@@ -1,16 +1,16 @@
 # Data_processing_Numpy
  - Building a project to learn more about NumPy:
  - Features of the data set:
-  Age: Age of the person
-  education-num: No. of years of education they had
-  race: Person's race 
+ - Age: Age of the person
+ - education-num: No. of years of education they had
+ - race: Person's race 
   0 - Amer-Indian-Eskimo
   1 - Asian-Pac-Islander
   2 - Black
   3 - Other
   4 - White
 
-sex: Person's gender 
+ - sex: Person's gender 
   0 - Female
   1 - Male
 
